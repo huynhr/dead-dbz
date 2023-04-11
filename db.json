@@ -2,15 +2,15 @@
   "nfts": [
     {
       "id": 0,
-      "name": "Dead Krillin",
-      "description": "A dead Krillin NFT from the Dragon Ball Z Collection",
-      "image": "https://i.imgflip.com/b6ktw.jpg?a466848"
+      "name": "Krillin",
+      "description": "Krillin still alive.",
+      "image": "https://dragonball.guru/wp-content/uploads/2021/03/krillin-profile-1-400x400.png"
     },
     {
       "id": 1,
-      "name": "Dead Yamcha",
-      "description": "A dead Yamcha NFT from the Dragon Ball Z Collection",
-      "image": "https://i.kym-cdn.com/entries/icons/original/000/005/609/800px-Yamcha_found_dead.jpg"
+      "name": "Yamcha",
+      "description": "Yamcha still alive.",
+      "image": "https://static.wikia.nocookie.net/dbxv2/images/5/54/Yamcha.png/revision/latest?cb=20200813194454"
     }
   ]
 }
